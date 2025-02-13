@@ -10,6 +10,8 @@ Platform: All members used Macs
 * DATA folder
   * Our sentiment scores final dataset
     * all_sentiment_scores.xlsx
+  * Data Appendix
+    * Data Appendix.pdf
   * 20 PDF files of scripts used in VADER analysis
     * BREAKING_BAD_-_PILOT.pdf
     * Baby_Reindeer_1x01.pdf
