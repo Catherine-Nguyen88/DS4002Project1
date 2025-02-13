@@ -36,7 +36,9 @@ Platform: All members used Macs
     * the-good-place-101-everything-is-great-2017.pdf
 * OUTPUT folder
   * Data dictionary, graphs from EDA, and final analysis visualization
-    * Data Appendix.pdf
+    * Analysis Result Table + Plot.pdf
+    * Data Dictionary Table + Final Dataframe.pdf
+    * EDA Plots.pdf
 * SCRIPTS folder
   * Code to prepare scripts to be run through VADER, our exploratory data analysis, and final analysis
     * DS_4002_Project_1.ipynb
