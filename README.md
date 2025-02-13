@@ -16,9 +16,9 @@ Platform: All members used Macs
 * Extract text from PDF and save as a new Pandas data frame 
 * Install and define VADER
 4. Run “PART 2: EDA plot” in Python script
-* For accessibility, save dataframe of produced sentiment scores as an XLSX file (this has been provided to you in the SCRIPTS folder)
-* Run 3 plots
+* For accessibility, save dataframe of produced sentiment scores as an .xlsx file (this has already been provided to you in the SCRIPTS folder and is called "all_sentiment_scores.xlsx"). This is the final data used for analysis.
+* Run the three EDA plots
 5. Run “PART 3: Multiple Linear Regression Analysis” in Python code
-* Read in excel and print df
+* Read in excel ("all_sentiment_scores.xlsx") and print df
 * Run Multiple Linear Regression on data
 * Run plot 4
